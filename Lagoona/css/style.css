@@ -669,7 +669,7 @@ svg {
 .accomodation-item {
   flex-basis: 374px;
   border-radius: 15px;
-  /* overflow: hidden; */
+  overflow: hidden;
   background-color: var(--white-color);
 }
 
@@ -685,6 +685,7 @@ svg {
   font-size: 16px;
   min-height: 440px;
   flex-direction: column;
+  border-radius: 15px;
 }
 
 .accomodation-price {
