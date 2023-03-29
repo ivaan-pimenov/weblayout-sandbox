@@ -1,8 +1,26 @@
 # weblayout-projects
-Отработка навыков верстки. 
+Portfolio.
 HTML5, CCS3, JavaScript, Bootstrap, Autoprefixer, accessibility, css- and js- libs.
 
 Practise in website layout. English description below after russian one.
+
+## Cайт "w-WAVE" 
+* <a href="https://www.figma.com/file/1z3K239V4UebmQOfGNPrwp/Landing_4-(W-Wave-Radio)?node-id=0-1&t=HLzsU35gxPdOkfHR-0" target="_blank">Макет</a> в Figma
+* Адаптивная верстка сайта через media-запросы. 
+
+### Использованные инструменты и библиотеки:
+* <a href="https://ru.bem.info/" target="_blank">Методология БЭМ</a>
+* Проверка html-кода по БЭМ проводил <a href="https://yoksel.github.io/html-tree/" target="_blank">тут</a>
+* При верстке использовал flex-свойствами.
+* При верстке сайта придерживался подхода <strong>PixelPerfect</strong> 
+* <a href="https://cdnjs.com/libraries/normalize" target="_blank">normalize.css</a>
+* Аккордеон на JQuery и CSS
+* Валидатор форм из библиотеки <a href="https://github.com/RobinHerbots/Inputmask" target="_blank">InputMask</a>  и  <a href="https://github.com/horprogs/Just-validate/tree/v1" target="_blank">JustValidate</a>
+* Слайдер на JS и CSS из библиотеки <a href="https://swiperjs.com/" target="_blank">Swiper</a>
+* <a href="https://www.artlebedev.ru/typograf/" target="_blank">Типограф</a> 
+* Код подтвердил валидацию <a href="https://validator.w3.org/" target="_blank">тут</a> 
+* <strong>Кроссбраузерность</strong>: для корректной работы с разными браузерами и их версиями код обработан через <a href="https://autoprefixer.github.io/ru/" target="_blank">autoprefixer</a> 
+* <strong>Доступность</strong>: при необходимости использовались aria-аттрибуты.
 
 ## Cайт "Evklid" 
 * <a href="https://www.figma.com/file/ebNZrWnJUvzeMUzVaaKPWp/Evklid?t=Kk83NiVvQ0ELfowR-6" target="_blank">Макет</a> в Figma
@@ -67,6 +85,24 @@ Practise in website layout. English description below after russian one.
 * Код подтвердил валидацию <a href="https://validator.w3.org/" target="_blank">тут</a> 
 
 ### English
+
+## Website "w-WAVE" 
+* <a href="https://www.figma.com/file/1z3K239V4UebmQOfGNPrwp/Landing_4-(W-Wave-Radio)?node-id=0-1&t=HLzsU35gxPdOkfHR-0" target="_blank">Project</a> in Figma
+* Adaptive layout via media-queries. 
+
+### Used instruments and libraries:
+* <a href="https://en.bem.info/" target="_blank">Methodology BEM</a>
+* HTML-code checked via BEM <a href="https://yoksel.github.io/html-tree/" target="_blank">here</a>
+* Used <strong>PixelPerfect</strong> approach
+* Used flex-propety.
+* <a href="https://cdnjs.com/libraries/normalize" target="_blank">normalize.css</a>
+* Accordion on JQuery and CSS
+* Form-validator from library <a href="https://github.com/RobinHerbots/Inputmask" target="_blank">InputMask</a>  and  <a href="https://github.com/horprogs/Just-validate/tree/v1" target="_blank">JustValidate</a>
+* Slider on JS and CSS as <a href="https://swiperjs.com/" target="_blank">Swiper</a> plugin
+* <a href="https://www.artlebedev.ru/typograf/" target="_blank">Typograph</a> 
+* Code was validated <a href="https://validator.w3.org/" target="_blank">here</a> 
+* <strong>Cross-browser compatibility</strong>: for correct work with different browers and their versions code has been proceed via <a href="https://autoprefixer.github.io/ru/" target="_blank">autoprefixer</a> 
+* <strong>Accessibility</strong>: used aria-attribure if it is needed
 
 ## Website "Evklid" 
 * <a href="https://www.figma.com/file/ebNZrWnJUvzeMUzVaaKPWp/Evklid?t=Kk83NiVvQ0ELfowR-6" target="_blank">Project</a> in Figma
